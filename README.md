@@ -1,2 +1,6 @@
 # Kickstarter-Trend-Spotter
-Python function to determine the presence of a bullish/bearish divergence between a given indicator and its underlying security's high or low prices depending on price action.
+Trend Analysis of Kickstarter trends using Python. Includes:
+- Kickstarter Web Scraping notebook to extract projects' key info
+- NLP notebook to extract topics per project
+- Data Visualization notebook
+- HTML file of Bokeh plot 
