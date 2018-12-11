@@ -135,7 +135,7 @@ hover = HoverTool(tooltips="""
         <span style="font-size: 10px; color: #7F8C8D;">Pledged: @pledged</span><br>
         <span style="font-size: 10px; color: #7F8C8D;">Backers: @backers</span><br>
         <span style="font-size: 10px; color: #7F8C8D;">Goal: @goal</span><br>
-        <span style="font-size: 10px; color: #7F8C8D;">% Funded: @pct_funded_ %</span><br>
+        <span style="font-size: 10px; color: #7F8C8D;">Funded:Goal Ratio: @pct_funded</span><br>
         <span style="font-size: 10px; color: #7F8C8D;">Topics: @topics</span>
     </div>
 </div>
